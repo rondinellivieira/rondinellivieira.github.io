@@ -4,7 +4,7 @@
 <p> That's the fist test of a landing page developed in HTML5 and CSS3 for the Johnny 5 Robotics project. </p>
 <p> In a near future, we'll improve and add new features using frameworks. </p>
 <br>
-<p>Check our project on (instagram.com/johnny5.io) and don't hesitate to contact us if you have any questions</p>
+<p>Check our project on (instagram.com/johnny5.io) and don't hesitate to contact us if you have any questions.</p>
 <br><br>
 <p> Screenshots: </p>
 
